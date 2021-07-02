@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgemarcoux&label=Profile%20views&color=0e75b6&style=flat" alt="jorgemarcoux" /> </p>
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 Personal Website [https://jorgemarcoux.com/](https://jorgemarcoux.com/)
 
-- 💬 Ask me about **On-page SEO**
+- 💬 Ask me about **SEO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
